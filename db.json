@@ -1,14 +1,26 @@
 {
+  "company": "Skynet S.A",
+  "description": "Creado originalmente por la empresa Cyberdyne Systems Corporation, entidad privada y subcontratada por el Ejército de los Estados Unidos para la división cibernética del mismo, es desarrollada por el científico Miles Bennett Dyson, quien a partir de los restos del primer terminator, rescatan un brazo mecánico y un chip fabricados con una tecnología tan superior como desconocida. Lo anterior lleva a Dyson por nuevas direcciones para el desarrollo de un procesador de red neuronal: una computadora que aprende. En 1995, logra crear un chip revolucionario. Con éste son equipadas, en primer lugar, las computadoras de la red de defensa estadounidense. Luego, se aprueba la ley de presupuesto para Skynet, por lo que Cyberdine Systems se convierte en la principal proveedora de las redes de defensa de los Estados Unidos. El sistema entra en línea el 4 de agosto de 1997. Todos los aviones y bombarderos Stealth son equipados con computadoras Cyberdine. A consecuencia, sus récords de operaciones de vuelos son perfectos. Las decisiones humanas son eliminadas del sistema de defensa y Skynet comienza a aprender a un ritmo geométrico. Logra tomar conciencia de sí misma el 29 de agosto de 1997, a las 2:14 AM. Los humanos entran en pánico e intentan apagarla (según se explica en Terminator 2). A modo de defensa, inmediatamente comienza el exterminio de los seres humanos, pues Skynet los considera una seria amenaza para su propia supervivencia",
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { 
+      "id": 1,
+      "title": "Important stuff 1",
+      "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    { 
+      "id": 2,
+      "title": "Important stuff 2",
+      "video": "https://www.youtube.com/watch?v=oavMtUWDBTM"
+    },
+    { 
+      "id": 3,
+      "title": "Important stuff 3",
+      "video": "https://www.youtube.com/watch?v=uE-1RPDqJAY"
+    },
+    { 
+      "id": 4,
+      "title": "Important stuff 4",
+      "video": "https://www.youtube.com/watch?v=ZZ5LpwO-An4"
+    },
+  ]
 }
