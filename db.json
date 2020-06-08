@@ -40,7 +40,12 @@
         "id": 1,
         "title": "History",
         "video": "https://www.youtube.com/watch?v=BPrdxBp0nVQ"
-      }
+      },
+      { 
+        "id": 2,
+        "title": "Important stuff 2",
+        "video": "https://www.youtube.com/watch?v=KaqC5FnvAEc"
+      },
     ]
   }
   ]
